@@ -1,3 +1,2 @@
-# penjanje
+Aplikacija penjackog saveza BIH
 
-A new Flutter project.
